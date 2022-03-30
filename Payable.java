@@ -1,4 +1,4 @@
-public interface Payable {
+public interface Payable impliments Employee {
 
 
     default double getPaymentAmt() {
